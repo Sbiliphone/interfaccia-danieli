@@ -1,0 +1,239 @@
+{
+  "acciai": [
+    {
+      "id": "0",
+      "Nome": "INOX",
+      "Descrizione": "Acciaio che non si ossida",
+      "NonProducibile": false
+    },
+    {
+      "id": "1",
+      "Nome": "INOX_MIGLIORE",
+      "Descrizione": "Acciaio con proprietà migliori",
+      "NonProducibile": false
+    },
+    {
+      "id": "2",
+      "Nome": "ACCAIO_VECCHIO",
+      "Descrizione": "Acciaio eliminato precedentemente",
+      "NonProducibile": true
+    },
+    {
+      "id": "3",
+      "Nome": "INOX_CON_POST_REQUEST",
+      "Descrizione": "Acciaio con post request",
+      "NonProducibile": false
+    },
+    {
+      "Nome": "INOX BURH",
+      "Descrizione": "Acciaio con proprietà migliori",
+      "NonProducibile": false,
+      "id": "RBq-jVe"
+    },
+    {
+      "Nome": "TYPEA",
+      "Descrizione": "Molto resistente",
+      "NonProducibile": false,
+      "id": "X5-IBNZ"
+    },
+    {
+      "Nome": "TYPEA",
+      "Descrizione": "Molto resistente",
+      "NonProducibile": false,
+      "id": "rAp4TA7"
+    },
+    {
+      "Nome": "TYPEB",
+      "Descrizione": "Molto resistente",
+      "NonProducibile": false,
+      "id": "P1TSaMQ"
+    },
+    {
+      "Nome": "TYPEB",
+      "Descrizione": "Molto resistente",
+      "NonProducibile": false,
+      "id": "QshqWlL"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "nAQFxYH"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "KqIHER4"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "4ZZZGI9"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "b5pG1N0"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "m0o2IUl"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "dzWw7uc"
+    },
+    {
+      "Nome": "TYPEC",
+      "Descrizione": "Final",
+      "NonProducibile": false,
+      "id": "-aycTur"
+    }
+  ],
+  "colate": [
+    {
+      "id": "0",
+      "TipoAcciaio": "3",
+      "PesoProducibile": 60,
+      "StatoColata": "PRODOTTA",
+      "OraInizio": "2020-01-01 16:50:10",
+      "OraFine": "2020-01-01 17:20:30",
+      "Ordinamento": 0
+    },
+    {
+      "id": "1",
+      "TipoAcciaio": "2",
+      "PesoProducibile": 4,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 1
+    },
+    {
+      "id": "2",
+      "TipoAcciaio": "1",
+      "PesoProducibile": 50,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 2
+    },
+    {
+      "TipoAcciaio": "QshqWlL",
+      "PesoProducibile": 50,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 3,
+      "id": "-R6Ya7m"
+    },
+    {
+      "TipoAcciaio": "nAQFxYH",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 4,
+      "id": "dasqD7g"
+    },
+    {
+      "TipoAcciaio": "KqIHER4",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 5,
+      "id": "01ZQ1jf"
+    },
+    {
+      "TipoAcciaio": "4ZZZGI9",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 6,
+      "id": "fddIBQo"
+    },
+    {
+      "TipoAcciaio": "b5pG1N0",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 7,
+      "id": "rkgMT65"
+    },
+    {
+      "TipoAcciaio": "m0o2IUl",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 8,
+      "id": "q0yPbXR"
+    },
+    {
+      "TipoAcciaio": "dzWw7uc",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 9,
+      "id": "26MgIKn"
+    },
+    {
+      "TipoAcciaio": "-aycTur",
+      "PesoProducibile": 22,
+      "StatoColata": "DA_PRODURRE",
+      "Ordinamento": 10,
+      "id": "bAd4Rcl"
+    }
+  ],
+  "prodotti": [
+    {
+      "id": "0",
+      "CodiceColata": "0",
+      "Sezione": 30,
+      "Peso": 10,
+      "Lunghezza": 30,
+      "InizioProduzione": "2020-01-01 10:10:10",
+      "FineProduzione": "2020-01-01 10:20:30",
+      "Descrizione": "Prodotto molto interessante"
+    },
+    {
+      "id": "1",
+      "CodiceColata": "1",
+      "Sezione": 30,
+      "Peso": 2,
+      "Lunghezza": 2
+    },
+    {
+      "id": "2",
+      "CodiceColata": "1",
+      "Sezione": 30,
+      "Peso": 2,
+      "Lunghezza": 2
+    },
+    {
+      "CodiceColata": "rkgMT65",
+      "Sezione": 35,
+      "Peso": 25,
+      "Lunghezza": 14,
+      "Descrizione": "Descrizione prodotto",
+      "id": "bMITmba"
+    },
+    {
+      "CodiceColata": "q0yPbXR",
+      "Sezione": 35,
+      "Peso": 25,
+      "Lunghezza": 14,
+      "Descrizione": "Descrizione prodotto",
+      "id": "bL1k2p0"
+    },
+    {
+      "CodiceColata": "26MgIKn",
+      "Sezione": 35,
+      "Peso": 25,
+      "Lunghezza": 14,
+      "Descrizione": "Descrizione prodotto",
+      "id": "rI9TDgz"
+    },
+    {
+      "CodiceColata": "bAd4Rcl",
+      "Sezione": 35,
+      "Peso": 25,
+      "Lunghezza": 14,
+      "Descrizione": "Descrizione prodotto",
+      "id": "Qg3t5Fl"
+    }
+  ]
+}
